@@ -17,6 +17,8 @@ To stop the execution:
 docker compose down
 ```
 
+Go to http://0.0.0.0:8050 to see the DashBoard
+
 ## Description of the project
 
 This is a Python/Dash platform that streams weather data and displays it online.
