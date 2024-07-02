@@ -1,0 +1,22 @@
+.board-title {
+   margin-top: 1rem;
+   margin-bottom: 1rem;
+   padding: .5rem;
+   font-size: 22px;
+   background-color: rgb(50, 50, 50);
+}
+
+.board-header {
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    padding: .5rem;
+    font-size: 18px;
+    background-color: rgb(50, 50, 50);
+ }
+
+.table-title {
+    margin-bottom: 1rem;
+    padding: .5rem;
+    font-size: 14px;
+    background-color: rgb(50, 50, 50);
+ }
