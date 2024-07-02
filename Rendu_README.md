@@ -46,4 +46,6 @@ The pyhton execution environment is threaded:
 2. 5 threads for 5 producers
 3. 1 thread for Dash/Plotly application
 
-The graphs on dashboard are updated every minute (a call is made to a mongo database). 
+The graphs on dashboard are updated every minute (a call is made to a mongo database).
+
+### ATTENTION! The app is running on host 0.0.0.O, thus allowing all connections, which is not secure. The use of the application is at your own risk
